@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.technorely.mattermost;
 
 import android.app.Notification;
 import android.app.NotificationChannel;

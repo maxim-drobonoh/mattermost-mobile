@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.technorely.mattermost;
 
 import android.app.Activity;
 import android.content.pm.ActivityInfo;

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mattermost.rnbeta">
+    package="com.technorely.mattermost">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
@@ -21,7 +21,7 @@
         <meta-data android:name="android.content.APP_RESTRICTIONS"
                    android:resource="@xml/app_restrictions" />
 
-        <meta-data android:name="com.wix.reactnativenotifications.gcmSenderId" android:value="184930218130\"/>
+        <meta-data android:name="com.wix.reactnativenotifications.gcmSenderId" android:value="675768461896\"/>
       <activity
         android:name=".MainActivity"
         android:label="@string/app_name"

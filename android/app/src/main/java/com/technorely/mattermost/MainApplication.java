@@ -1,4 +1,4 @@
-package com.mattermost.rnbeta;
+package com.technorely.mattermost;
 
 import com.mattermost.share.SharePackage;
 import com.mattermost.share.RealPathUtil;
